@@ -1,4 +1,4 @@
-"""Under Armour scraper — scrape Shopify collections, embed with local SigLIP, upsert Supabase."""
+"""Under Armour scraper — Playwright sitemap + JSON-LD PDPs, local SigLIP, upsert Supabase."""
 from __future__ import annotations
 
 import json
